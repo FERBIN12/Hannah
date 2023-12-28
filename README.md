@@ -1,6 +1,7 @@
 ## Hannah - Voice controlled Robotic Manipulator
 
 Software: ROS2 humble 
+
 OS: UBUNTU 22.04 
 
 ROS2 packages used so far:
