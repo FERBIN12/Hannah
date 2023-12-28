@@ -22,6 +22,7 @@ arm_controller:
       - joint_1
       - joint_2
       - joint_3
+      - hori_arm_claw_joint
       
     command_interfaces:
       - position
